@@ -1,16 +1,16 @@
 {
-  "name": "@visurel/iconify-angular",
-  "version": "11.0.0",
+  "name": "@miles170/iconify-angular",
+  "version": "16.0.0",
   "description": "Angular component for Iconify.",
   "author": "visurel",
   "repository": {
     "type": "git",
-    "url": "https://github.com/visurel/iconify-angular"
+    "url": "https://github.com/miles170/iconify-angular"
   },
   "bugs": {
-    "url": "https://github.com/visurel/iconify-angular/issues"
+    "url": "https://github.com/miles170/iconify-angular/issues"
   },
-  "homepage": "https://github.com/visurel/iconify-angular",
+  "homepage": "https://github.com/miles170/iconify-angular",
   "license": "MIT",
   "peerDependencies": {
     "@angular/common": ">=5.0.0",
